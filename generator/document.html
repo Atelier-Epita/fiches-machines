@@ -13,8 +13,8 @@
         }
 
         html, body {
-            margin: 0;
-            padding: 0;
+            margin: 0px !important;
+            padding: 0px !important;
         }
 
         .bar {
@@ -40,6 +40,8 @@
         }
 
         header {
+            padding-left: 40px;
+            padding-right: 40px;
             display: flex;
             font-weight: 700;
             text-transform: uppercase;
@@ -55,7 +57,8 @@
         }
 
         article {
-            margin: 20px;
+            margin: 42px 115px 115px;
+            font-size: 20px !important;
         }
 
         h1:not(header h1), h2, h3, h4, h5, h6 {
@@ -69,7 +72,7 @@
 <div class="bar level-%level%"></div>
 
 <header>
-<!--    <img src="static/logo.png" alt="L'Atelier" class="logo">-->
+    <img src="https://github.com/Atelier-Epita/fiches-machines/raw/main/generator/static/logo.png" alt="L'Atelier" class="logo">
     <div>
         <h1>%title%</h1>
     </div>
