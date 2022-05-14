@@ -1,8 +1,9 @@
-# fer à souder (niveau orange)
+---
+level: orange
+title: Fer à souder
+---
 
-
-
-## avant utilisation : 
+## Avant utilisation : 
 
 - signaler tout problème a un staff / manager.
 - signaler tout problème sur l'intra également.
@@ -13,9 +14,9 @@
 
 ## Utilisation : 
 
-1) mise en place des EPI.
-2) mise en route de l'appareil et réglage de la température du fer a souder.
-3) disposer les pièces à assembler sur la troisième main.
+1. mise en place des EPI. 
+2. mise en route de l'appareil et réglage de la température du fer a souder. 
+3. disposer les pièces à assembler sur la troisième main.
 
 ## EPI obligatoire : 
 

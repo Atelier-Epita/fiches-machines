@@ -1,8 +1,9 @@
-# perceuse / visseuse (niveau vert)
+---
+level: green
+title: Perceuse / Visseuse
+---
 
-
-
-## avant utilisation : 
+## Avant utilisation : 
 
 - Signaler tout problème à un staff / manager.
 - S'assurer de l'état de charge de la batterie (si déchargée la mettre en charge).
@@ -13,9 +14,9 @@
 
 ## Utilisation : 
 
-1) Mise en place des EPI.
-2) Ajustement du limiteur de couple.
-3) Ajustement du mode de perçage (perçage / vissage / perforateur).
+1. Mise en place des EPI. 
+2. Ajustement du limiteur de couple. 
+3. Ajustement du mode de perçage (perçage / vissage / perforateur).
 
 ## EPI obligatoire : 
 

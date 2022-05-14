@@ -1,8 +1,9 @@
-# pistolet à colle (niveau vert)
+---
+level: green
+title: Pistolet à colle
+---
 
-
-
-## avant utilisation : 
+## Avant utilisation : 
 
 - Signaler tout problème a un staff / manager.
 - Signaler tout problème sur l'intra également.
@@ -14,9 +15,9 @@
 
 ## Utilisation : 
 
-1) Mise en place des EPI.
-2) Mise sous tensions du pistolet.
-3) Amorcer la gâchette du pistolet pour libérer la colle.
+1. Mise en place des EPI.
+2. Mise sous tensions du pistolet. 
+3. Amorcer la gâchette du pistolet pour libérer la colle.
 
 ## EPI obligatoire : 
 

@@ -1,8 +1,9 @@
-# Défonceuse (niveau orange)
+---
+level: orange
+title: Défonceuse
+---
 
-
-
-## avant utilisation : 
+## Avant utilisation : 
 
 - Signaler tout problème a un staff / manager.
 - S'assurer qu'aucune présentation n'est en cours dans le MakerSpace.
@@ -14,11 +15,11 @@
 
 ## Utilisation : 
 
-1) Mise en place des EPI.
-2) Mise en place de la tête de fraisage (Uniquement lorsque la machine est hors tension).
-3) Préparation du support à travailler.
-4) Connecter l'aspirateur à l'appareil.
-5) Mise sous tension de la machine et de l'aspirateur.
+1. Mise en place des EPI. 
+2. Mise en place de la tête de fraisage (Uniquement lorsque la machine est hors tension). 
+3. Préparation du support à travailler. 
+4. Connecter l'aspirateur à l'appareil. 
+5. Mise sous tension de la machine et de l'aspirateur.
 
 ## EPI obligatoire : 
 

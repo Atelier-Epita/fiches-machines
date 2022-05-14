@@ -1,8 +1,9 @@
-# scie sauteuse (niveau orange)
+---
+level: orange
+title: Scie sauteuse
+---
 
-
-
-## avant utilisation : 
+## Avant utilisation : 
 
 - signaler tout problème a un staff / manager.
 - signaler tout problème sur l'intra également.
@@ -16,9 +17,9 @@
 
 ## Utilisation : 
 
-1) mise en place des EPI.
-2) mise en route de la machine.
-3) découpe de la pièce :).
+1. mise en place des EPI. 
+2. mise en route de la machine. 
+3. découpe de la pièce :).
 
 ## EPI obligatoire : 
 

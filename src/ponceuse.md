@@ -1,8 +1,9 @@
-# Ponceuse (niveau vert)
+---
+level: green
+title: Ponceuse
+---
 
-
-
-## avant utilisation : 
+## Avant utilisation : 
 
 - s'assurer de l'état de charge de la batterie (si déchargée la mettre en charge).
 - signaler tout problème a un staff / manager.
@@ -15,9 +16,9 @@
 
 ## Utilisation : 
 
-1) mise en place des EPI.
-2) mise en place du papier a poncer en aillant pris soins d'ajuster le grain.
-3) préparation du support a travailler.
+1. mise en place des EPI. 
+2. mise en place du papier a poncer en aillant pris soins d'ajuster le grain. 
+3. préparation du support a travailler.
 
 ## EPI obligatoire : 
 

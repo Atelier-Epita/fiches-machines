@@ -1,34 +1,32 @@
-# scie circulaire (niveau rouge)
+---
+level: red
+title: Disqueuse
+---
 
-
-
-## avant utilisation : 
+## Avant utilisation : 
 
 - Signaler tout problème a un staff / manager.
 - Signaler tout problème sur l'intra également.
+- S'assurer du serrage du disque.
 - S'assurer du bon fonctionnement de la machine.
-- S'assurer qu'aucune présentation est en cours dans le MakerSpace.
+- S'assurer qu'aucune présentation n'est en cours dans le MakerSpace.
 
 ## Description : 
 
-- permet la découpe du bois épais ou de grande taille, qu'il s'agisse de découper parfaitement droit ou en biseau.
-- matériaux possible : 
-  - tout type de bois ( <= a 7 cm de hauteur)
+- permet la découpe de pièce en métal (disque abrasif).
+- permet le ponçage de pièce métallique (disque a poncer).
 
 ## Utilisation : 
 
-1) Connecter l'aspirateur à l'appareil (AJOUTER PHOTO)
-2) Mise en place des EPI (sur soi-même et aux personnes aux alentours).
-3) Ajustement de l'angle et du guide de découpe grâce au laser intégré.
-4) Mise en route de l'aspirateur.
-5) mise en route de la machine.
-6) découpe de la pièce :).
+1. Mise en place des EPI (sur soi-même et aux personnes aux alentours). 
+2. Si  aucun disque n'est présent (demander a un manager). 
+3. connecter la machine à une prise.
 
 ## EPI obligatoire : 
 
 - gants de découpe (gant orange).
 - lunette de protection.
-- bouchon d'oreille.
+- bouchons d'oreilles.
 
 ## EPI recommandé : 
 
@@ -39,7 +37,7 @@
 
 - cheveux attachés.
 - pas de vêtement ample.
-- pas de bijoux(boucle d'oreille, collier, bague).
+- pas de bijoux (boucle d'oreille, collier, bague).
 - prévenir les personnes aux alentours et leurs proposer des EPI.
 
 ## Apres utilisations: 

@@ -1,8 +1,9 @@
-# perceuse à colonne (niveau orange)
+---
+level: orange
+title: Perceuse à colonne
+---
 
-
-
-## avant utilisation : 
+## Avant utilisation : 
 
 - signaler tout problème a un staff / manager.
 - signaler tout problème sur l'intra également.

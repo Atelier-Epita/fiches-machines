@@ -1,8 +1,9 @@
-# scie a chantourner (niveau orange)
+---
+level: orange
+title: Scie a chantourner
+---
 
-
-
-## avant utilisation : 
+## Avant utilisation : 
 
 - signaler tout probleme a un staff / manager.
 - signaler tout probleme sur l'intra également.
@@ -15,11 +16,11 @@
 
 ## Utilisation : 
 
-1) connecter l'aspirateur a l'appareil (AJOUTER PHOTO)
-2) mise en place des EPI (sur soi-meme et aux personnes aux alentours).
-3) réglage de la vitre de protection sur le devant de l'appareil + mise en route de l'aspirateur.
-4) mise en route de la machine (ajouter photo bouton mise en route).
-5) découpe de la pièce :).
+1. connecter l'aspirateur a l'appareil (AJOUTER PHOTO)
+2. mise en place des EPI (sur soi-meme et aux personnes aux alentours). 
+3. réglage de la vitre de protection sur le devant de l'appareil + mise en route de l'aspirateur. 
+4. mise en route de la machine (ajouter photo bouton mise en route). 
+5. découpe de la pièce :).
 
 ## EPI obligatoire : 
 
