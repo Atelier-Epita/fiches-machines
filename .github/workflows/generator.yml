@@ -25,7 +25,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-        apt-get -y install wkhtmltopdf
+        sudo apt-get -y install wkhtmltopdf
         mkdir ./out
       working-directory: ${{env.working-directory}}
     - name: Generate PDF files.
