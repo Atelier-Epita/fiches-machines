@@ -1,22 +1,27 @@
-# Décapeur Thermique (niveau orange)
+---
+level: orange
+title: Décapeur Thermique
+---
 
-## Description : 
+## Description :
 
-- Un **décapeur thermique**, également appelé pistolet thermique ou pistolet à air chaud, est un outil projetant un jet d'air très chaud (jusqu'à 600 °C) afin de décoller, décaper, sécher, thermo-rétracter des gaines plastiques ou réchauffer. Sa température de sortie est réglable ainsi que le débit d'air: 
-    - Position 1 / 2 : 300 °C, 
+- Un **décapeur thermique**, également appelé pistolet thermique ou pistolet à air chaud, est un outil projetant un jet
+  d'air très chaud (jusqu'à 600 °C) afin de décoller, décaper, sécher, thermo-rétracter des gaines plastiques ou
+  réchauffer. Sa température de sortie est réglable ainsi que le débit d'air:
+    - Position 1 / 2 : 300 °C,
     - Position 3 : 500 °C.
 
-## Avant utilisation : 
+## Avant utilisation :
 
 - Signaler tout problème à un Staff Lab.
 
-## Utilisation : 
+## Utilisation :
 
-1) Mise en place des EPI.
-2) Réglage de la température de projection.
-3) Mise en route de la machine.
+1. Mise en place des EPI.
+2. Réglage de la température de projection.
+3. Mise en route de la machine.
 
-## EPI obligatoire(s) : 
+## EPI obligatoire(s) :
 
 - Gants de protection thermique.
 
@@ -25,13 +30,13 @@
 - Masque filtrant pour les matières nocives.
 - Lunettes de protection.
 
-## Précautions à prendre : 
+## Précautions à prendre :
 
 - Pas de bijoux aux mains (bracelet, bague).
 - Ne pas toucher la partie métallique.
 - Ne pas diriger vers sois ou une autre personne.
 
-## Après utilisation: 
+## Après utilisation:
 
 - Remettre la machine en position neutre puis l'éteindre.
 - Ranger les EPI.

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Fiche</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap"
+          rel="stylesheet">
+    <style>
+        html {
+            font-family: 'Atkinson Hyperlegible', sans-serif;
+        }
+
+        html, body {
+            margin: 0;
+            padding: 0;
+        }
+
+        .bar {
+            width: 100%;
+            height: 20px;
+        }
+
+        .level-red {
+            background: #e74c3c;
+        }
+
+        .level-green {
+            background: #2ecc71;
+        }
+
+        .level-orange {
+            background: #e67e22;
+        }
+
+        .logo {
+            width: 200px;
+            margin: 20px;
+        }
+
+        header {
+            display: flex;
+            font-weight: 700;
+            text-transform: uppercase;
+        }
+
+        header div {
+            width: 100%;
+            line-height: 98px;
+        }
+
+        header h1 {
+            text-align: center;
+        }
+
+        article {
+            margin: 20px;
+        }
+
+        h1:not(header h1), h2, h3, h4, h5, h6 {
+            margin-bottom: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="bar level-%level%"></div>
+
+<header>
+<!--    <img src="static/logo.png" alt="L'Atelier" class="logo">-->
+    <div>
+        <h1>%title%</h1>
+    </div>
+</header>
+
+
+<article>
+    %content%
+</article>
+
+</body>
+</html>
