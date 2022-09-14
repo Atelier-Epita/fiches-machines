@@ -11,6 +11,9 @@ title: Scie sauteuse
 
 ## Description : 
 
+  - Une **scie sauteuse** est une machine-outil de découpe, équipée d'une lame dentée, 
+  utilisée en général pour la découpe de planches ou de panneaux en bois mais aussi de plastique et d'aluminium.
+
 - Permet la découpe pièce en bois.
 - Matériaux possible : 
   - Tout type de bois ( <= a 3 cm d'épaisseur)

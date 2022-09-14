@@ -12,6 +12,7 @@ title: Ponceuse
 - S'assurer qu'aucune présentation n'est en cours dans le MakerSpace.
 
 ## Description : 
+- La **ponceuse** est une machine utilisée pour poncer une surface, c'est-à-dire pour la polir, la décaper ou modifier son état de surface. 
 
 - Permet le ponçage des surfaces hors surface métallique (cd disqueuse).
 

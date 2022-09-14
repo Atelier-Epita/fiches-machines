@@ -8,7 +8,10 @@ title: Perceuse à colonne
 - signaler tout problème a un Staff Lab / Lab Manager.
 - signaler tout problème sur l'intra également.
 
-## Description : 
+## Description :
+
+- Une **perceuse à colonne** est une machine conçue pour réaliser à froid des trous dans le métal au moyen d'un outil rotatif tranchant.
+  Le mouvement axial de l'outil est commandé par l'actionnement d'un volant.
 
 - permet le perçage avec précision de tout type de matériaux (bois, métal).
 - profondeur de perçage maximale : 

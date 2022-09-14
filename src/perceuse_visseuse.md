@@ -9,8 +9,9 @@ title: Perceuse / Visseuse
 - S'assurer de l'état de charge de la batterie (si déchargée la mettre en charge).
 
 ## Description : 
+- La **perceuse visseuse** est un outil très pratique puisqu'elle permet aussi bien de percer différents matériaux que de visser et de dévisser : 
+    Elle peut aussi être une perceuse à percussion pour un usage polyvalent comme le perçage dans la brique ou la pierre tendre
 
-- Permet le perçage du bois / vissage.
 
 ## Utilisation : 
 

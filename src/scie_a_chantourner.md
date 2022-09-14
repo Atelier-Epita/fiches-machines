@@ -11,7 +11,7 @@ title: Scie a chantourner
 
 ## Description : 
 
-- Permet la découpe pièce en bois avec précisions.
+- Une **Scie à chantourner** permet la découpe de petite pièce en bois avec précision.
 - mMatériaux possible : 
   - Tout type de bois ( <= a 8 cm de hauteur, largeur < 30cm, longueur < 30cm).
 

@@ -13,7 +13,7 @@ title: Scie circulaire
 
 ## Description : 
 
-- Permet la découpe du bois épais ou de grande taille, qu'il s'agisse de découper parfaitement droit ou en biseau.
+- Une **Scie circulaire** permet la découpe du bois épais ou de grande taille, qu'il s'agisse de découper parfaitement droit ou en biseau.
 - Matériaux possible : 
   - tout type de bois ( <= à 7 cm de hauteur)
 
