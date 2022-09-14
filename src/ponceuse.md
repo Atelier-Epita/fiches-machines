@@ -8,7 +8,6 @@ title: Ponceuse
 - S'assurer de l'état de charge de la batterie (si déchargée la mettre en charge).
 - S'assurer de l'état du papier a poncer.
 - Signaler tout problème a un staff / manager.
-- Signaler tout problème sur l'intra également.
 - S'assurer qu'aucune présentation n'est en cours dans le MakerSpace.
 
 ## Description : 
@@ -44,4 +43,4 @@ title: Ponceuse
 - S'assurer de l'état de charge de la batterie (si déchargée la mettre en charge).
 - Nettoyage de la machine + de l'espace autours avec l'aspirateur.
 - Rangement des EPI.
-- Signaler tout problème a un staff/manager et également sur l'intra.
+- Signaler tout problème a un staff/manager.

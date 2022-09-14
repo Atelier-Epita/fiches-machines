@@ -13,7 +13,7 @@ title: Décapeur Thermique
 
 ## Avant utilisation :
 
-- Signaler tout problème à un Staff Lab.
+- Signaler tout problème à un Staff Lab / Lab Manager.
 - Vérifier que le décapeur thermique soit éteint avant de le brancher.
 
 ## Utilisation :

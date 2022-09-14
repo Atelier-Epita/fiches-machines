@@ -6,7 +6,6 @@ title: Scie a chantourner
 ## Avant utilisation : 
 
 - Signaler tout probleme a un Staff Lab / Lab Manager.
-- Signaler tout probleme sur l'intra également.
 - Demander l'accompagnement par un Staff Lab / Lab Manager si c'est la première utilisation.
 
 ## Description : 
@@ -44,4 +43,4 @@ title: Scie a chantourner
 
 - Nettoyage de la machine + de l'espace autours.
 - Rangement des EPI.
-- Signaler tout problème a un Staff Lab / Lab Manager et également sur l'intra.
+- Signaler tout problème a un Staff Lab / Lab Manager.

@@ -6,7 +6,7 @@ title: Pistolet à colle
 ## Avant utilisation : 
 
 - Signaler tout problème a un staff / manager.
-- Signaler tout problème sur l'intra également.
+
 - S'assurer qu'un bâton de colle soit insérer.
 
 ## Description : 
@@ -21,11 +21,11 @@ title: Pistolet à colle
 
 ## EPI obligatoire : 
 
-- Lunettes de protections.
 
 ## EPI recommandé :
 
 - Gants manutention (gris).
+- Lunettes de protections.
 
 ## Précaution à prendre : 
 
@@ -41,4 +41,4 @@ title: Pistolet à colle
 - Mise hors tension de l'appareil.
 - Rangement des EPI.
 - Rangement du pistolet lorsqu'il a refroidi.
-- Signaler tout problème a un Staff Lab / Lab Manager et également sur l'intra.
+- Signaler tout problème a un Staff Lab / Lab Manager.

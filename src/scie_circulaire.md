@@ -6,7 +6,6 @@ title: Scie circulaire
 ## Avant utilisation : 
 
 - Signaler tout problème a un Staff Lab / Lab manager.
-- Signaler tout problème sur l'intra.
 - S'assurer du bon fonctionnement de la machine.
 - S'assurer de la bonne mise en place du disque de découpe.
 - S'assurer qu'aucune présentation n'est en cours dans le MakerSpace.
@@ -48,4 +47,4 @@ title: Scie circulaire
 - Débrancher la machine.
 - Nettoyage de la machine + de l'espace autours.
 - Rangement des EPI et de la machine.
-- Signaler tout problème a un Staff Lab / Lab Manager et également sur l'intra.
+- Signaler tout problème a un Staff Lab / Lab Manager.

@@ -5,7 +5,7 @@ title: Défonceuse
 
 ## Avant utilisation : 
 
-- Signaler tout problème a un staff / manager.
+- Signaler tout problème a un Staff Lab / Lab Manager.
 - S'assurer qu'aucune présentation n'est en cours dans le MakerSpace.
 
 ## Description : 
@@ -43,4 +43,4 @@ title: Défonceuse
 - mise hors tension de la machine.
 - nettoyage de la machine + de l'espace autours avec l'aspirateur.
 - rangement des EPI.
-- signaler tout problème a un staff Lab / Lab Manager et également sur l'intra.
+- signaler tout problème a un staff Lab / Lab Manager.

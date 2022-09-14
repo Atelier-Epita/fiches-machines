@@ -6,7 +6,6 @@ title: Scie sauteuse
 ## Avant utilisation : 
 
 - Signaler tout problème à un Staff Lab / Lab Manager.
-- Signaler tout problème sur l'intra.
 - S'assurer de l'état de charge de la batterie (si déchargée la mettre en charge, les chargeurs se trouvent sur le poste mécanique).
 
 ## Description : 
@@ -48,4 +47,4 @@ title: Scie sauteuse
 - Nettoyage de la machine + de l'espace autours.
 - Rangement des EPI.
 - Rangement de la machine.
-- Signaler tout problème a un Staff Lab / Lab Manager et également sur l'intra.
+- Signaler tout problème a un Staff Lab / Lab Manager.

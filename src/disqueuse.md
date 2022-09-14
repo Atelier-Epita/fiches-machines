@@ -16,7 +16,6 @@ title: Disqueuse
 ## Avant utilisation : 
 
 - Signaler tout problème a un Staff Lab / Lab Manager.
-- Signaler tout problème sur l'intra.
 - S'assurer du serrage du disque.
 - S'assurer du bon fonctionnement de la machine.
 - S'assurer qu'aucune présentation n'est en cours dans le MakerSpace.
@@ -50,4 +49,4 @@ title: Disqueuse
 - Débrancher la machine.
 - Nettoyage de la machine + de l'espace autours.
 - Rangement des EPI et de la machine.
-- Signaler tout problème a un Staff Lab / Lab Manager et également sur l'intra.
+- Signaler tout problème a un Staff Lab / Lab Manager.

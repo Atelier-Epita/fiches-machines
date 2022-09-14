@@ -5,8 +5,7 @@ title: Fer à souder
 
 ## Avant utilisation : 
 
-- Signaler tout problème a un staff / manager.
-- Signaler tout problème sur l'intra également.
+- Signaler tout problème a un Staff Lab / Lab Manager.
 
 ## Description : 
 
@@ -22,9 +21,10 @@ distinctes grâce à une fusion. Le **fer à souder** sert donc à assembler, jo
 
 ## EPI obligatoire : 
 
-- Lunette de protection.
 
 ## EPI recommandé :
+- Lunette de protection.
+- Masque de protection.
 
 ## Précaution à prendre : 
 
@@ -39,4 +39,4 @@ distinctes grâce à une fusion. Le **fer à souder** sert donc à assembler, jo
 - Mise hors tension de l'appareil.
 - Rangement des EPI.
 - Rangement et nettoyage de la paillasse.
-- Signaler tout problème a un Staff Lab / Lab Mmanager et également sur l'intra.
+- Signaler tout problème a un Staff Lab / Lab Manager.

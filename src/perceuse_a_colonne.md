@@ -6,7 +6,6 @@ title: Perceuse à colonne
 ## Avant utilisation : 
 
 - signaler tout problème a un Staff Lab / Lab Manager.
-- signaler tout problème sur l'intra également.
 
 ## Description :
 
@@ -47,4 +46,4 @@ title: Perceuse à colonne
 
 - nettoyage de la machine + de l'espace autours avec l'aspirateur (attention aux copeaux d'acier).
 - rangement des EPI.
-- signaler tout problème à un staff Lab / Lab Manager et également sur l'intra.
+- signaler tout problème à un staff Lab / Lab Manager.
