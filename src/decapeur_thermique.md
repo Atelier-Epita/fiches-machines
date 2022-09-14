@@ -14,6 +14,7 @@ title: Décapeur Thermique
 ## Avant utilisation :
 
 - Signaler tout problème à un Staff Lab.
+- Vérifier que le décapeur thermique soit éteint avant de le brancher.
 
 ## Utilisation :
 
@@ -34,11 +35,11 @@ title: Décapeur Thermique
 
 - Pas de bijoux aux mains (bracelet, bague).
 - Ne pas toucher la partie métallique.
-- Ne pas diriger vers sois ou une autre personne.
+- Ne pas diriger vers soi ou une autre personne.
 
 ## Après utilisation:
 
 - Remettre la machine en position neutre puis l'éteindre.
 - Ranger les EPI.
-- Ranger le décapeur SEULEMENT lorsqu'il a refroidi.
+- Ranger le décapeur **SEULEMENT** lorsqu'il a refroidi.
 - Si besoin, signaler tout problème à un Staff Lab.

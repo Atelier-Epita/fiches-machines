@@ -5,41 +5,42 @@ title: Ponceuse
 
 ## Avant utilisation : 
 
-- s'assurer de l'état de charge de la batterie (si déchargée la mettre en charge).
-- signaler tout problème a un staff / manager.
-- signaler tout problème sur l'intra également.
+- S'assurer de l'état de charge de la batterie (si déchargée la mettre en charge).
+- S'assurer de l'état du papier a poncer.
+- Signaler tout problème a un staff / manager.
+- Signaler tout problème sur l'intra également.
 - S'assurer qu'aucune présentation n'est en cours dans le MakerSpace.
 
 ## Description : 
 
-- permet le ponçage des surfaces plates.
+- Permet le ponçage des surfaces hors surface métallique (cd disqueuse).
 
 ## Utilisation : 
 
-1. mise en place des EPI. 
-2. mise en place du papier a poncer en aillant pris soins d'ajuster le grain. 
-3. préparation du support a travailler.
+1. Mise en place des EPI. 
+2. Mise en place du papier a poncer en aillant pris soins d'ajuster le grain. 
+3. Préparation du support a travailler.
 
 ## EPI obligatoire : 
 
-- gants de manutention (gris).
-- lunette de protection.
+- Gants de manutention (gris).
+- Lunette de protection.
 
 ## EPI recommandé :
 
-- bouchons d'oreilles.
+- Bouchons d'oreilles.
 
 ## Précaution a prendre : 
 
-- cheveux attachés.
-- pas de vêtement ample.
-- pas de bijoux (boucle d'oreille, collier, bague).
-- prévenir les personnes aux alentours et leurs proposer des EPI adapté.
+- Cheveux attachés.
+- Pas de vêtement ample.
+- Pas de bijoux (boucle d'oreille, collier, bague).
+- Prévenir les personnes aux alentours et leurs proposer des EPI adapté.
 
 ## Apres utilisations: 
 
-- retirer la batterie de l'appareil.
-- s'assurer de l'état de charge de la batterie (si déchargée la mettre en charge).
-- nettoyage de la machine + de l'espace autours avec l'aspirateur (attention aux copeaux d'acier).
-- rangement des EPI.
-- signaler tout problème a un staff/manager et également sur l'intra.
+- Retirer la batterie de l'appareil.
+- S'assurer de l'état de charge de la batterie (si déchargée la mettre en charge).
+- Nettoyage de la machine + de l'espace autours avec l'aspirateur.
+- Rangement des EPI.
+- Signaler tout problème a un staff/manager et également sur l'intra.

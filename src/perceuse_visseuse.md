@@ -5,12 +5,12 @@ title: Perceuse / Visseuse
 
 ## Avant utilisation : 
 
-- Signaler tout problème à un staff / manager.
+- Signaler tout problème à un Staff Lab / Lab Manager.
 - S'assurer de l'état de charge de la batterie (si déchargée la mettre en charge).
 
 ## Description : 
 
-- permet le perçage du bois / vissage.
+- Permet le perçage du bois / vissage.
 
 ## Utilisation : 
 
@@ -31,10 +31,11 @@ title: Perceuse / Visseuse
 - Cheveux attachés.
 - Pas de vêtement ample.
 - Pas de bijoux (boucle d'oreille, collier, bague).
+- Attention aux blocages de la perceuse lors du percage de matériaux durs (Limiter le couple).
 
 ## Apres utilisations: 
 
 - S'assurer de l'état de charge de la batterie (si déchargée la mettre en charge).
 - Nettoyer la machine ainsi que l'espace autour avec l'aspirateur.
-- Ranger les EPI et  la machine.
-- Signaler tout problème a un staff Lab / LabManager.
+- Ranger les EPI et la machine.
+- Signaler tout problème a un staff Lab / Lab Manager.

@@ -23,7 +23,6 @@ title: Pistolet à colle
 
 - Lunettes de protections.
 
-
 ## EPI recommandé :
 
 - Gants manutention (gris).
@@ -34,6 +33,7 @@ title: Pistolet à colle
 - Pas de vêtement ample.
 - Pas de bijoux (boucle d'oreille, collier, bague).
 - Ne pas toucher l'extrémité jaune du pistolet.
+- Attention a la colle qui pourrait tomber sur les doigts.
 
 ## Apres utilisations: 
 
@@ -41,4 +41,4 @@ title: Pistolet à colle
 - Mise hors tension de l'appareil.
 - Rangement des EPI.
 - Rangement du pistolet lorsqu'il a refroidi.
-- Signaler tout problème a un staff/manager et également sur l'intra.
+- Signaler tout problème a un Staff Lab / Lab Manager et également sur l'intra.
