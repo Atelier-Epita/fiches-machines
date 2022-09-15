@@ -5,12 +5,14 @@ title: Perceuse à colonne
 
 ## Avant utilisation : 
 
-- signaler tout problème a un staff / manager.
-- signaler tout problème sur l'intra également.
+- signaler tout problème a un Staff Lab / Lab Manager.
 
-## Description : 
+## Description :
 
-- permet le perçage avec précision de tout type de matériaux (bois, métal) .
+- Une **perceuse à colonne** est une machine conçue pour réaliser à froid des trous dans le métal au moyen d'un outil rotatif tranchant.
+  Le mouvement axial de l'outil est commandé par l'actionnement d'un volant.
+
+- permet le perçage avec précision de tout type de matériaux (bois, métal).
 - profondeur de perçage maximale : 
   - bois : 40mm.
   - métal : 13 mm.
@@ -34,13 +36,14 @@ title: Perceuse à colonne
 
 ## Précaution a prendre : 
 
-- cheveux attachés.
-- pas de vêtement ample.
-- pas de bijoux (boucle d'oreille, collier, bague).
+- Cheveux attachés.
+- Pas de vêtement ample.
+- Pas de bijoux (boucle d'oreille, collier, bague).
+- Ne pas approcher sa main de la zone de percage.
 - prévenir les personnes aux alentours et leurs proposer des EPI adapté.
 
 ## Apres utilisations: 
 
 - nettoyage de la machine + de l'espace autours avec l'aspirateur (attention aux copeaux d'acier).
 - rangement des EPI.
-- signaler tout problème a un staff/manager et également sur l'intra.
+- signaler tout problème à un staff Lab / Lab Manager.

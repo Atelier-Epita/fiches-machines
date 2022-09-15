@@ -5,47 +5,46 @@ title: Scie circulaire
 
 ## Avant utilisation : 
 
-- Signaler tout problème a un staff / manager.
-- Signaler tout problème sur l'intra également.
+- Signaler tout problème a un Staff Lab / Lab manager.
 - S'assurer du bon fonctionnement de la machine.
-- S'assurer qu'aucune présentation est en cours dans le MakerSpace.
+- S'assurer de la bonne mise en place du disque de découpe.
+- S'assurer qu'aucune présentation n'est en cours dans le MakerSpace.
 
 ## Description : 
 
-- permet la découpe du bois épais ou de grande taille, qu'il s'agisse de découper parfaitement droit ou en biseau.
-- matériaux possible : 
-  - tout type de bois ( <= a 7 cm de hauteur)
+- Une **Scie circulaire** permet la découpe du bois épais ou de grande taille, qu'il s'agisse de découper parfaitement droit ou en biseau.
+- Matériaux possible : 
+  - tout type de bois ( <= à 7 cm de hauteur)
 
 ## Utilisation : 
 
-1. Connecter l'aspirateur à l'appareil (AJOUTER PHOTO)
-2. Mise en place des EPI (sur soi-même et aux personnes aux alentours). 
-3. Ajustement de l'angle et du guide de découpe grâce au laser intégré. 
-4. Mise en route de l'aspirateur. 
-5. mise en route de la machine. 
-6. découpe de la pièce :).
+1. Mise en place des EPI (sur soi-même et aux personnes aux alentours). 
+2. Ajustement de l'angle et du guide de découpe grâce au laser intégré. 
+3. Mise en route de l'aspirateur. 
+4. Mise en route de la machine. 
 
 ## EPI obligatoire : 
 
-- gants de découpe (gant orange).
-- lunette de protection.
-- bouchon d'oreille.
+- Gants de manutentions (gant gris).
+- Lunette de protection.
+- Bouchon d'oreille.
 
 ## EPI recommandé : 
 
- - casque antibruit.
- - masque pour poussière.
+ - Casque antibruit.
+ - Masque pour poussière.
 
 ## Précaution a prendre : 
 
-- cheveux attachés.
-- pas de vêtement ample.
-- pas de bijoux(boucle d'oreille, collier, bague).
-- prévenir les personnes aux alentours et leurs proposer des EPI.
+- Cheveux attachés.
+- Pas de vêtement ample.
+- Pas de bijoux(boucle d'oreille, collier, bague).
+- Ne pas approcher sa mains de la lame lors de la découpe.
+- Prévenir les personnes aux alentours et leurs proposer des EPI.
 
 ## Apres utilisations: 
 
-- débrancher la machine.
-- nettoyage de la machine + de l'espace autours.
-- rangement des EPI et de la machine.
-- signaler tout problème a un staff / manager et également sur l'intra.
+- Débrancher la machine.
+- Nettoyage de la machine + de l'espace autours.
+- Rangement des EPI et de la machine.
+- Signaler tout problème a un Staff Lab / Lab Manager.
