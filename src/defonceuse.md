@@ -31,12 +31,12 @@ title: Défonceuse
 
 - Casque anti-bruit.
 
-## Précautions a prendre : 
+## Précautions à prendre : 
 
 - Cheveux attachés.
 - Pas de vêtement ample.
 - Pas de bijoux (boucle d'oreille, collier, bague).
-- Prévenir les personnes aux alentours et leurs proposer des EPI adapté.
+- Prévenir les personnes aux alentours et leur proposer des EPI adapté.
 
 ## Après utilisation: 
 
