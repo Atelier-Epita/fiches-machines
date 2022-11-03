@@ -23,12 +23,12 @@ title: Scie sauteuse
 2. Mise en route de la machine. 
 3. Découpe de la pièce :).
 
-## EPI obligatoire(s) : 
+## EPI obligatoires : 
 
 - Gants de découpe (gant orange).
 - Lunette de protection.
 
-## EPI recommandé(s) :
+## EPI recommandé :
 
 - Bouchons d'oreilles.
 
