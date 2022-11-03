@@ -21,12 +21,12 @@ title: Ponceuse
 2. Mise en place du papier a poncer en ayant pris soin d'ajuster le grain. 
 3. Préparation du support a travailler.
 
-## EPI obligatoire(s) : 
+## EPI obligatoires : 
 
 - Gants de manutention (gris).
 - Lunette de protection.
 
-## EPI recommandé(s) :
+## EPI recommandé :
 
 - Bouchons d'oreilles.
 
