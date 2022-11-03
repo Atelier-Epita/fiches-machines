@@ -5,9 +5,8 @@ title: Pistolet à colle
 
 ## Avant utilisation : 
 
-- Signaler tout problème a un staff / manager.
-
-- S'assurer qu'un bâton de colle soit insérer.
+- Signaler tout problème à un staff / manager.
+- S'assurer qu'un bâton de colle soit inséré.
 
 ## Description : 
 
@@ -16,18 +15,18 @@ title: Pistolet à colle
 ## Utilisation : 
 
 1. Mise en place des EPI.
-2. Mise sous tensions du pistolet. 
+2. Mise sous tension du pistolet. 
 3. Amorcer la gâchette du pistolet pour libérer la colle.
 
-## EPI obligatoire : 
+## EPI obligatoire(s) : 
 
 
-## EPI recommandé :
+## EPI recommandé(s) :
 
 - Gants manutention (gris).
-- Lunettes de protections.
+- Lunettes de protection.
 
-## Précaution à prendre : 
+## Précautions à prendre : 
 
 - Cheveux attachés.
 - Pas de vêtement ample.
@@ -35,7 +34,7 @@ title: Pistolet à colle
 - Ne pas toucher l'extrémité jaune du pistolet.
 - Attention a la colle qui pourrait tomber sur les doigts.
 
-## Apres utilisations: 
+## Après utilisation: 
 
 - Rangement des EPI.
 - Mise hors tension de l'appareil.
