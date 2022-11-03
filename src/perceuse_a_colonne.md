@@ -25,25 +25,25 @@ title: Perceuse à colonne
 4) ajustement de maintient de la pièce grâce au serre-joint intégré.
 5) mise en route de la machine.
 
-## EPI obligatoire : 
+## EPI obligatoire(s) : 
 
 - gants de manutention (gris).
 - lunette de protection.
 
-## EPI recommandé :
+## EPI recommandé(s) :
 
-- bouchon d'oreille.
+- Bouchons d'oreilles.
 
-## Précaution a prendre : 
+## Précautions a prendre : 
 
 - Cheveux attachés.
 - Pas de vêtement ample.
 - Pas de bijoux (boucle d'oreille, collier, bague).
 - Ne pas approcher sa main de la zone de percage.
-- prévenir les personnes aux alentours et leurs proposer des EPI adapté.
+- Prévenir les personnes aux alentours et leurs proposer des EPI adapté.
 
-## Apres utilisations: 
+## Après utilisation: 
 
-- nettoyage de la machine + de l'espace autours avec l'aspirateur (attention aux copeaux d'acier).
-- rangement des EPI.
-- signaler tout problème à un staff Lab / Lab Manager.
+- Nettoyage de la machine + de l'espace autours avec l'aspirateur (attention aux copeaux d'acier).
+- Rangement des EPI.
+- Signaler tout problème à un staff Lab / Lab Manager.
