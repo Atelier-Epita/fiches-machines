@@ -36,7 +36,7 @@ title: Disqueuse
  - Casque antibruit.
  - Masque pour poussière.
 
-## Précautions a prendre : 
+## Précautions à prendre : 
 
 - Cheveux attachés.
 - Pas de vêtement ample.
