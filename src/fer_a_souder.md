@@ -19,10 +19,10 @@ distinctes grâce à une fusion. Le **fer à souder** sert donc à assembler, jo
 3. Remplissage du bac à eau (endroit où se trouve l'éponge);
 4. Disposer les pièces à assembler sur la troisième main.
 
-## EPI obligatoire(s) : 
+## EPI obligatoire : 
 
 
-## EPI recommandé(s) :
+## EPI recommandés :
 - Lunette de protection.
 - Masque de protection.
 
