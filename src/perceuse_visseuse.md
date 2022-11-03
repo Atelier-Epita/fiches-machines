@@ -27,16 +27,16 @@ title: Perceuse / Visseuse
 
 - Lunette de protection.
 
-## Précautions a prendre : 
+## Précautions à prendre : 
 
 - Cheveux attachés.
 - Pas de vêtement ample.
 - Pas de bijoux (boucle d'oreille, collier, bague).
-- Attention aux blocages de la perceuse lors du percage de matériaux durs (Limiter le couple).
+- Attention aux blocages de la perceuse lors du perçage de matériaux durs (Limiter le couple).
 
 ## Après utilisation: 
 
 - S'assurer de l'état de charge de la batterie (si déchargée la mettre en charge).
 - Nettoyer la machine ainsi que l'espace autour avec l'aspirateur.
 - Ranger les EPI et la machine.
-- Signaler tout problème a un staff Lab / Lab Manager.
+- Signaler tout problème à un staff Lab / Lab Manager.
