@@ -21,17 +21,17 @@ title: Défonceuse
 4. Connecter l'aspirateur à l'appareil. 
 5. Mise sous tension de la machine et de l'aspirateur.
 
-## EPI obligatoire : 
+## EPI obligatoire(s) : 
 
 - Gants de manutention (gris).
 - Lunette de protection.
 - Bouchons d'oreilles.
 
-## EPI recommandé :
+## EPI recommandé(s) :
 
 - Casque anti-bruit.
 
-## Précaution a prendre : 
+## Précautions a prendre : 
 
 - Cheveux attachés.
 - Pas de vêtement ample.
