@@ -22,7 +22,7 @@ title: Perceuse à colonne
 1) mise en place des EPI.
 2) mise en place du foret dans le mandrin.
 3) ajustement de la pièce grâce au laser.
-4) ajustement de maintien de la pièce grâce au serre-joint intégré.
+4) ajustement du maintien de la pièce grâce au serre-joint intégré.
 5) mise en route de la machine.
 
 ## EPI obligatoire(s) : 
