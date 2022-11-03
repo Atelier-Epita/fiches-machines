@@ -27,7 +27,6 @@ title: Perceuse à colonne
 
 ## EPI obligatoire(s) : 
 
-- gants de manutention (gris).
 - lunette de protection.
 
 ## EPI recommandé(s) :
