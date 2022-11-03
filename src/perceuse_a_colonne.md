@@ -25,11 +25,11 @@ title: Perceuse à colonne
 4) ajustement du maintien de la pièce grâce au serre-joint intégré.
 5) mise en route de la machine.
 
-## EPI obligatoire(s) : 
+## EPI obligatoire : 
 
 - lunette de protection.
 
-## EPI recommandé(s) :
+## EPI recommandé :
 
 - Bouchons d'oreilles.
 
