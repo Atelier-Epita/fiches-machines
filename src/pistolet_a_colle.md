@@ -10,7 +10,7 @@ title: Pistolet à colle
 
 ## Description : 
 
-- Le **pistolet** à **colle** permet des collages sur une multitude de surfaces comme le verre, la carton, le bois, métal, tissu... Pratique pour **coller** très vite et ne pas avoir à attendre de longues minutes de séchage.
+- Le **pistolet** à **colle** permet des collages sur une multitude de surfaces comme le verre, le carton, le bois, métal, tissu... Pratique pour **coller** très vite et ne pas avoir à attendre de longues minutes de séchage.
 
 ## Utilisation : 
 
@@ -40,4 +40,4 @@ title: Pistolet à colle
 - Mise hors tension de l'appareil.
 - Rangement des EPI.
 - Rangement du pistolet lorsqu'il a refroidi.
-- Signaler tout problème a un Staff Lab / Lab Manager.
+- Signaler tout problème à un Staff Lab / Lab Manager.
