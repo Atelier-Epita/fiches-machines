@@ -25,13 +25,13 @@ title: Disqueuse
 1. Mise en place des EPI (sur soi-même et aux personnes aux alentours). 
 2. Si  aucun disque n'est présent (demander à un Lab Manager). 
 
-## EPI obligatoire(s) : 
+## EPI obligatoires : 
 
 - Gants de découpe (gant orange).
 - Lunette de protection.
 - Bouchons d'oreilles.
 
-## EPI recommandé(s) : 
+## EPI recommandés : 
 
  - Casque antibruit.
  - Masque pour poussière.
