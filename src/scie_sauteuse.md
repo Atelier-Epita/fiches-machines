@@ -14,7 +14,7 @@ title: Scie sauteuse
   utilisée en général pour la découpe de planches ou de panneaux en bois mais aussi de plastique et d'aluminium.
 
 - Permet la découpe pièce en bois.
-- Matériaux possible : 
+- Matériaux possibles : 
   - Tout type de bois ( <= a 3 cm d'épaisseur)
 
 ## Utilisation : 
@@ -23,28 +23,28 @@ title: Scie sauteuse
 2. Mise en route de la machine. 
 3. Découpe de la pièce :).
 
-## EPI obligatoire : 
+## EPI obligatoires : 
 
 - Gants de découpe (gant orange).
 - Lunette de protection.
 
 ## EPI recommandé :
 
-- Bouchon d'oreille.
+- Bouchons d'oreilles.
 
-## Précaution a prendre : 
+## Précautions à prendre : 
 
 - Cheveux attachés.
 - Pas de vêtement ample.
 - Pas de bijoux (boucle d'oreille, collier, bague).
-- Prévenir les personnes aux alentours et leurs proposer des EPI.
+- Prévenir les personnes aux alentours et leur proposer des EPI.
 
-## Apres utilisations: 
+## Après utilisation: 
 
 - Retirer la batterie de l'appareil.
 - Remettre l'appareil sur la position de sécurité.
 - S'assurer de l'état de charge de la batterie (si déchargée la mettre en charge).
-- Nettoyage de la machine + de l'espace autours.
+- Nettoyage de la machine + de l'espace autour.
 - Rangement des EPI.
 - Rangement de la machine.
-- Signaler tout problème a un Staff Lab / Lab Manager.
+- Signaler tout problème à un Staff Lab / Lab Manager.

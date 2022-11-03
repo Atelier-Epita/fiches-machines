@@ -6,8 +6,8 @@ title: Ponceuse
 ## Avant utilisation : 
 
 - S'assurer de l'état de charge de la batterie (si déchargée la mettre en charge).
-- S'assurer de l'état du papier a poncer.
-- Signaler tout problème a un staff / manager.
+- S'assurer de l'état du papier à poncer.
+- Signaler tout problème à un staff / manager.
 - S'assurer qu'aucune présentation n'est en cours dans le MakerSpace.
 
 ## Description : 
@@ -18,10 +18,10 @@ title: Ponceuse
 ## Utilisation : 
 
 1. Mise en place des EPI. 
-2. Mise en place du papier a poncer en aillant pris soins d'ajuster le grain. 
+2. Mise en place du papier a poncer en ayant pris soin d'ajuster le grain. 
 3. Préparation du support a travailler.
 
-## EPI obligatoire : 
+## EPI obligatoires : 
 
 - Gants de manutention (gris).
 - Lunette de protection.
@@ -35,12 +35,12 @@ title: Ponceuse
 - Cheveux attachés.
 - Pas de vêtement ample.
 - Pas de bijoux (boucle d'oreille, collier, bague).
-- Prévenir les personnes aux alentours et leurs proposer des EPI adapté.
+- Prévenir les personnes aux alentours et leur proposer des EPI adapté.
 
-## Apres utilisations: 
+## Après utilisation: 
 
 - Retirer la batterie de l'appareil.
 - S'assurer de l'état de charge de la batterie (si déchargée la mettre en charge).
 - Nettoyage de la machine + de l'espace autours avec l'aspirateur.
 - Rangement des EPI.
-- Signaler tout problème a un staff/manager.
+- Signaler tout problème à un staff/manager.

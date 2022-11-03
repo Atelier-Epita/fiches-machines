@@ -23,30 +23,30 @@ title: Disqueuse
 ## Utilisation : 
 
 1. Mise en place des EPI (sur soi-même et aux personnes aux alentours). 
-2. Si  aucun disque n'est présent (demander a un Lab Manager). 
+2. Si  aucun disque n'est présent (demander à un Lab Manager). 
 
-## EPI obligatoire : 
+## EPI obligatoires : 
 
 - Gants de découpe (gant orange).
 - Lunette de protection.
 - Bouchons d'oreilles.
 
-## EPI recommandé : 
+## EPI recommandés : 
 
  - Casque antibruit.
  - Masque pour poussière.
 
-## Précaution a prendre : 
+## Précautions à prendre : 
 
 - Cheveux attachés.
 - Pas de vêtement ample.
 - Pas de bijoux (boucle d'oreille, collier, bague).
-- Prévenir les personnes aux alentours et leurs proposer des EPI.
-- Ne pas approcher sa mains du disque lorsque la machine est sous tension.
+- Prévenir les personnes aux alentours et leur proposer des EPI.
+- Ne pas approcher ses mains du disque lorsque la machine est sous tension.
 
-## Apres utilisations: 
+## Après utilisation: 
 
 - Débrancher la machine.
-- Nettoyage de la machine + de l'espace autours.
+- Nettoyage de la machine + de l'espace autour.
 - Rangement des EPI et de la machine.
-- Signaler tout problème a un Staff Lab / Lab Manager.
+- Signaler tout problème à un Staff Lab / Lab Manager.

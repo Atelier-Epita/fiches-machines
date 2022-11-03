@@ -5,7 +5,7 @@ title: Scie circulaire
 
 ## Avant utilisation : 
 
-- Signaler tout problème a un Staff Lab / Lab manager.
+- Signaler tout problème à un Staff Lab / Lab manager.
 - S'assurer du bon fonctionnement de la machine.
 - S'assurer de la bonne mise en place du disque de découpe.
 - S'assurer qu'aucune présentation n'est en cours dans le MakerSpace.
@@ -13,7 +13,7 @@ title: Scie circulaire
 ## Description : 
 
 - Une **Scie circulaire** permet la découpe du bois épais ou de grande taille, qu'il s'agisse de découper parfaitement droit ou en biseau.
-- Matériaux possible : 
+- Matériaux possibles : 
   - tout type de bois ( <= à 7 cm de hauteur)
 
 ## Utilisation : 
@@ -23,28 +23,28 @@ title: Scie circulaire
 3. Mise en route de l'aspirateur. 
 4. Mise en route de la machine. 
 
-## EPI obligatoire : 
+## EPI obligatoires : 
 
 - Gants de manutentions (gant gris).
 - Lunette de protection.
-- Bouchon d'oreille.
+- Bouchons d'oreilles.
 
-## EPI recommandé : 
+## EPI recommandés : 
 
  - Casque antibruit.
  - Masque pour poussière.
 
-## Précaution a prendre : 
+## Précautions à prendre : 
 
 - Cheveux attachés.
 - Pas de vêtement ample.
 - Pas de bijoux(boucle d'oreille, collier, bague).
-- Ne pas approcher sa mains de la lame lors de la découpe.
-- Prévenir les personnes aux alentours et leurs proposer des EPI.
+- Ne pas approcher ses mains de la lame lors de la découpe.
+- Prévenir les personnes aux alentours et leur proposer des EPI.
 
-## Apres utilisations: 
+## Après utilisation: 
 
 - Débrancher la machine.
 - Nettoyage de la machine + de l'espace autours.
 - Rangement des EPI et de la machine.
-- Signaler tout problème a un Staff Lab / Lab Manager.
+- Signaler tout problème à un Staff Lab / Lab Manager.

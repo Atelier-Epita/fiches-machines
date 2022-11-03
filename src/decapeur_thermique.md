@@ -22,11 +22,11 @@ title: Décapeur Thermique
 2. Réglage de la température de projection.
 3. Mise en route de la machine.
 
-## EPI obligatoire(s) :
+## EPI obligatoire :
 
 - Gants de protection thermique.
 
-## EPI recommandé(s) :
+## EPI recommandés :
 
 - Masque filtrant pour les matières nocives.
 - Lunettes de protection.
