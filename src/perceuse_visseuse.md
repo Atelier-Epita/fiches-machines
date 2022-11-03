@@ -19,22 +19,22 @@ title: Perceuse / Visseuse
 2. Ajustement du limiteur de couple. 
 3. Ajustement du mode de perçage (perçage / vissage / perforateur).
 
-## EPI obligatoire : 
+## EPI obligatoire(s) : 
 
 - Gants de manutention (gris).
 
-## EPI recommandé :
+## EPI recommandé(s) :
 
 - Lunette de protection.
 
-## Précaution a prendre : 
+## Précautions a prendre : 
 
 - Cheveux attachés.
 - Pas de vêtement ample.
 - Pas de bijoux (boucle d'oreille, collier, bague).
 - Attention aux blocages de la perceuse lors du percage de matériaux durs (Limiter le couple).
 
-## Apres utilisations: 
+## Après utilisation: 
 
 - S'assurer de l'état de charge de la batterie (si déchargée la mettre en charge).
 - Nettoyer la machine ainsi que l'espace autour avec l'aspirateur.
