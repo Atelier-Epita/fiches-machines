@@ -19,14 +19,14 @@ distinctes grâce à une fusion. Le **fer à souder** sert donc à assembler, jo
 3. Remplissage du bac a eau (endroit ou se trouve l'eponge);
 4. Disposer les pièces à assembler sur la troisième main.
 
-## EPI obligatoire : 
+## EPI obligatoire(s) : 
 
 
-## EPI recommandé :
+## EPI recommandé(s) :
 - Lunette de protection.
 - Masque de protection.
 
-## Précaution à prendre : 
+## Précautions à prendre : 
 
 - Cheveux attachés.
 - Pas de vêtement ample.
@@ -34,7 +34,7 @@ distinctes grâce à une fusion. Le **fer à souder** sert donc à assembler, jo
 - Pas de bijoux (boucle d'oreille, collier, bague).
 - Ne pas toucher la partie métallique du fer à souder.
 
-## Apres utilisations: 
+## Après utilisation: 
 
 - Mise hors tension de l'appareil.
 - Rangement des EPI.
