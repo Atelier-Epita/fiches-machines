@@ -19,11 +19,11 @@ title: Perceuse / Visseuse
 2. Ajustement du limiteur de couple. 
 3. Ajustement du mode de perçage (perçage / vissage / perforateur).
 
-## EPI obligatoire(s) : 
+## EPI obligatoire : 
 
 - Gants de manutention (gris).
 
-## EPI recommandé(s) :
+## EPI recommandé :
 
 - Lunette de protection.
 
