@@ -23,13 +23,13 @@ title: Scie circulaire
 3. Mise en route de l'aspirateur. 
 4. Mise en route de la machine. 
 
-## EPI obligatoire(s) : 
+## EPI obligatoires : 
 
 - Gants de manutentions (gant gris).
 - Lunette de protection.
 - Bouchons d'oreilles.
 
-## EPI recommandé(s) : 
+## EPI recommandés : 
 
  - Casque antibruit.
  - Masque pour poussière.
