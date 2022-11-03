@@ -38,7 +38,7 @@ title: Défonceuse
 - Pas de bijoux (boucle d'oreille, collier, bague).
 - Prévenir les personnes aux alentours et leurs proposer des EPI adapté.
 
-## Apres utilisation: 
+## Après utilisation: 
 
 - mise hors tension de la machine.
 - nettoyage de la machine + de l'espace autours avec l'aspirateur.
