@@ -20,13 +20,13 @@ title: Scie a chantourner
 2. Réglage de la vitre de protection sur le devant de l'appareil. 
 3. Mise en route de la machine (ajouter photo bouton mise en route). 
 
-## EPI obligatoire : 
+## EPI obligatoires : 
 
 - Gants de découpe (gant orange).
 - Lunette de protection.
 - Bouchons d'oreilles.
 
-## EPI recommandé : 
+## EPI recommandés : 
 
 - Casque antibruit.
 - Masque pour poussière.
