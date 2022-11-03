@@ -18,10 +18,10 @@ title: Pistolet à colle
 2. Mise sous tension du pistolet. 
 3. Amorcer la gâchette du pistolet pour libérer la colle.
 
-## EPI obligatoire(s) : 
+## EPI obligatoire : 
 
 
-## EPI recommandé(s) :
+## EPI recommandés :
 
 - Gants manutention (gris).
 - Lunettes de protection.
