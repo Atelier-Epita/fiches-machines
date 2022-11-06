@@ -51,6 +51,8 @@ if __name__ == "__main__":
                 get_pdf_path(str(args.outdir), str(args.file)))
     else:
         for file in os.listdir(str(args.dir)):
-            if os.path.splitext(file)[1] in [".md", ".yaml", ".yml"]:
+            split_text = os.path.splitext(file)
+            # ignore template files
+            if split_text in [".md", ".yaml", ".yml"] and split_text[0] != "template":
                 process(str(args.dir).rstrip("/") + "/" + file,
                         get_pdf_path(str(args.outdir), str(file)))
