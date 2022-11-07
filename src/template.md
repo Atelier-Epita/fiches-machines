@@ -1,6 +1,6 @@
 ---
-level: 
-title: 
+level: #fixme
+title: #fixme
 ---
 
 ## Description
@@ -9,6 +9,7 @@ title:
 ## Avant utilisation
 <!-- prérequis avant de l'utiliser -->
 - Signaler tout problème à un Staff Lab / Lab Manager.
+- #fixme
 
 ## Utilisation
 <!-- comment utiliser la machine -->
