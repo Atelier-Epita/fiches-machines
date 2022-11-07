@@ -6,7 +6,7 @@ title: Disqueuse
 
 ## Description : 
 
-- Une **disqueuse**,  est un outil sur lequel est monté un disque qui peut être abrasif sur la face ou la tranche.
+- Une **disqueuse**  est un outil sur lequel est monté un disque pouvant être abrasif sur la face ou sur la tranche.
   Il permet de meuler ou de tronçonner différents matériaux selon le disque utilisé  :
 
     - Permet la découpe de pièce en métal (disque abrasif).
@@ -15,7 +15,7 @@ title: Disqueuse
 
 ## Avant utilisation : 
 
-- Signaler tout problème a un Staff Lab / Lab Manager.
+- Signaler tout problème à un Staff Lab / Lab Manager.
 - S'assurer du serrage du disque.
 - S'assurer du bon fonctionnement de la machine.
 - S'assurer qu'aucune présentation n'est en cours dans le MakerSpace.
@@ -39,10 +39,11 @@ title: Disqueuse
 ## Précautions à prendre : 
 
 - Cheveux attachés.
-- Pas de vêtement ample.
+- Pas de vêtement ample ni de cordon qui pend.
 - Pas de bijoux (boucle d'oreille, collier, bague).
-- Prévenir les personnes aux alentours et leur proposer des EPI.
 - Ne pas approcher ses mains du disque lorsque la machine est sous tension.
+- Prévenir les personnes aux alentours et leur proposer des EPI.
+- Dégager la zone de projection des étincelles.
 
 ## Après utilisation: 
 
