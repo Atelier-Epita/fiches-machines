@@ -19,16 +19,17 @@ title: Disqueuse
 - S'assurer du serrage du disque.
 - S'assurer du bon fonctionnement de la machine.
 - S'assurer qu'aucune présentation n'est en cours dans le MakerSpace.
+- Dégager la zone de projection des étincelles.
 
 ## Utilisation : 
 
 1. Mise en place des EPI (sur soi-même et aux personnes aux alentours). 
-2. Si  aucun disque n'est présent (demander à un Lab Manager). 
+2. Si aucun disque n'est présent, demander à un Lab Manager. 
 
 ## EPI obligatoires : 
 
-- Gants de découpe (gant orange).
-- Lunette de protection.
+- Gants de découpe (orange).
+- Lunettes de protection.
 - Bouchons d'oreilles.
 
 ## EPI recommandés : 
@@ -43,7 +44,6 @@ title: Disqueuse
 - Pas de bijoux (boucle d'oreille, collier, bague).
 - Ne pas approcher ses mains du disque lorsque la machine est sous tension.
 - Prévenir les personnes aux alentours et leur proposer des EPI.
-- Dégager la zone de projection des étincelles.
 
 ## Après utilisation: 
 
