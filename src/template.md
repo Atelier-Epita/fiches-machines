@@ -3,31 +3,27 @@ level:
 title: 
 ---
 
-## Description :
+## Description
+<!-- description de la machine -->
 
--
-
-## Avant utilisation :
-
+## Avant utilisation
+<!-- prérequis avant de l'utiliser -->
 - Signaler tout problème à un Staff Lab / Lab Manager.
 
+## Utilisation
+<!-- comment utiliser la machine -->
 
-## Utilisation :
+## EPI obligatoire(s)
+<!-- quels epi sont obligatoire pour l'utiliser -->
 
+## EPI recommandé(s)
+<!-- lesquels sont recommandés -->
 
-## EPI obligatoire(s) :
+## Précautions à prendre
+<!-- y a t'il des choses parmis lesquels l'utilisateur doit faire particulièrement attention ? -->
 
-
-
-## EPI recommandé(s) :
-
-
-
-## Précautions à prendre :
-
-
-## Après utilisation:
-
+## Après utilisation
+<!-- comment laisser la machine dans l'etat dans laquelle on l'a trouvé -->
 
 - Ranger les EPI.
 - Si besoin, signaler tout problème à un Staff Lab.
