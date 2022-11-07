@@ -9,7 +9,6 @@ title: #fixme
 ## Avant utilisation
 <!-- prérequis avant de l'utiliser -->
 - Signaler tout problème à un Staff Lab / Lab Manager.
-- #fixme
 
 ## Utilisation
 <!-- comment utiliser la machine -->
@@ -25,6 +24,5 @@ title: #fixme
 
 ## Après utilisation
 <!-- comment laisser la machine dans l'etat dans laquelle on l'a trouvé -->
-
 - Ranger les EPI.
 - Si besoin, signaler tout problème à un Staff Lab.
