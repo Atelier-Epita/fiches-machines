@@ -28,4 +28,4 @@ title: #fixme
 ## Après utilisation:
 #fixme
 - Ranger les EPI.
-- Si besoin, signaler tout problème à un Staff Lab.
+- Signaler tout problème à un Staff Lab / Lab Manager.
