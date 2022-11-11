@@ -5,14 +5,14 @@ title: Ponceuse
 
 ## Avant utilisation : 
 
-- S'assurer de l'état de charge de la batterie (si déchargée la mettre en charge).
+- S'assurer de l'état de charge de la batterie (la mettre en charge si nécessaire).
 - S'assurer de l'état du papier à poncer.
 - Signaler tout problème à un Staff Lab / Lab Manager.
 - S'assurer qu'aucune présentation n'est en cours dans le MakerSpace.
 
 ## Description : 
 
-- La **ponceuse** est une machine utilisée pour poncer une surface, c'est-à-dire pour la polir, la décaper ou modifier son état de surface. 
+- La **ponceuse** est une machine utilisée pour polir, décaper ou abraser une surface. 
 - Permet le ponçage des surfaces tendres (bois, composite, ...)
 - Pour du métal ou des matériaux minéraux utiliser une disqueuse.
 
@@ -42,7 +42,7 @@ title: Ponceuse
 ## Après utilisation: 
 
 - Retirer la batterie de l'appareil.
-- S'assurer de l'état de charge de la batterie (si déchargée la mettre en charge).
+- S'assurer de l'état de charge de la batterie (la mettre en charge si nécessaire).
 - Nettoyage de la machine & de l'espace autour avec l'aspirateur.
 - Rangement des EPI.
 - Signaler tout problème à un Staff Lab / Lab Manager.
