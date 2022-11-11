@@ -5,8 +5,8 @@ title: Scie a chantourner
 
 ## Avant utilisation : 
 
+- S'il s'agit de la première utilisation, **être accompagné d'un Staff Lab / Lab Manager**.
 - Signaler tout problème à un Staff Lab / Lab Manager.
-- Demander l'accompagnement par un Staff Lab / Lab Manager si c'est la première utilisation.
 
 ## Description : 
 
