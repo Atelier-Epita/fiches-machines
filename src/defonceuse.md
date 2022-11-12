@@ -19,13 +19,13 @@ title: Défonceuse
 1. Mise en place des EPI. 
 2. Mise en place de la tête de fraisage **(Uniquement lorsque la machine est hors tension)**. 
 3. Préparation du support à travailler. 
-4. Connecter l'aspirateur à l'appareil. 
+4. Branchement de l'aspirateur à l'appareil. 
 5. Mise sous tension de la machine et de l'aspirateur.
 
 ## EPI obligatoires : 
 
 - Gants de manutention (gris).
-- Lunette de protection.
+- Lunettes de protection.
 - Bouchons d'oreilles.
 
 ## EPI recommandé :
@@ -35,9 +35,9 @@ title: Défonceuse
 ## Précautions à prendre : 
 
 - Cheveux attachés.
-- Pas de vêtement ample.
+- Pas de vêtement ample ni de cordon qui pend.
 - Pas de bijoux (boucle d'oreille, collier, bague).
-- Prévenir les personnes aux alentours et leur proposer des EPI adapté.
+- Prévenir les personnes aux alentours et leur proposer des EPI adaptés.
 
 ## Après utilisation: 
 
