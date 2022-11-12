@@ -20,8 +20,8 @@ distinctes grâce à une fusion. Le **fer à souder** sert donc à assembler, jo
 4. Disposer les pièces à assembler sur la troisième main.
 
 ## EPI recommandés :
-- Lunette de protection.
-- Masque de protection.
+- Lunettes de protection.
+- Masque (vapeurs d'étain).
 
 ## Précautions à prendre : 
 
