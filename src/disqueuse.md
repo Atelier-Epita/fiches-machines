@@ -48,6 +48,6 @@ title: Disqueuse
 ## Après utilisation: 
 
 - Débrancher la machine.
-- Nettoyage de la machine + de l'espace autour.
+- Nettoyage de la machine & de l'espace autour.
 - Rangement des EPI et de la machine.
 - Signaler tout problème à un Staff Lab / Lab Manager.
