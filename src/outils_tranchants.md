@@ -5,7 +5,7 @@ title: Utilisation d'outils tranchants
 
 ## Description
 
-Les outils tranchants (manuels) sont des instruments utilisés pour couper, trancher, émincer ou inciser des matériaux. On retrouve parmis cette grande catégorie: couteaux, ciseaux, scies, etc.
+Les outils tranchants (manuels) sont des instruments utilisés pour couper, trancher, émincer ou inciser des matériaux. On retrouve parmis cette grande catégorie: cutter, couteaux, ciseaux, scies, etc.
 
 ## Avant utilisation
 
