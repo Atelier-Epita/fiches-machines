@@ -3,22 +3,22 @@ level: orange
 title: Perceuse à colonne
 ---
 
-## Avant utilisation : 
+## Avant utilisation
 
 - Signaler tout problème à un Staff Lab / Lab Manager.
 
-## Description :
+## Description
 
 - Une **perceuse à colonne** est une machine conçue pour réaliser à froid des trous parfaitement verticaux avec une mèche.
   Le mouvement axial de l'outil est commandé par l'actionnement d'un volant.
 - La vitesse de rotation et les blocages d'amplitude sont réglables.
 
 - Permet le perçage avec précision de tous types de matériaux (bois, métal, composite, ...).
-- profondeur de perçage maximale : 
+- profondeur de perçage maximale :
   - bois : 40mm.
   - métal : 13 mm.
 
-## Utilisation : 
+## Utilisation
 
 1) Mise en place des EPI.
 2) Mise en place du forêt dans le mandrin.
@@ -28,19 +28,19 @@ title: Perceuse à colonne
 6) Réglage de la vitesse de rotation du mandrin.
 7) Mise en route de la machine.
 
-## EPI obligatoire : 
+## EPI obligatoire
 
 - Lunettes de protection.
 
-## EPI recommandé :
+## EPI recommandé
 
 - Bouchons d'oreilles.
 
-## EPI interdits :
+## EPI interdits
 
 - Gants (risque d'entraînement).
 
-## Précautions à prendre : 
+## Précautions à prendre
 
 - Cheveux attachés.
 - Pas de vêtement ample ni de cordon qui pend.
@@ -49,7 +49,7 @@ title: Perceuse à colonne
 - Fixer fermement la pièce.
 - Prévenir les personnes aux alentours et leur proposer des EPI adaptés.
 
-## Après utilisation: 
+## Après utilisation
 
 - Nettoyage de la machine & de l'espace autour avec l'aspirateur (attention aux copeaux d'acier).
 - Rangement des EPI.

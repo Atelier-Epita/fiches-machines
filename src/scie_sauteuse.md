@@ -3,41 +3,41 @@ level: orange
 title: Scie sauteuse
 ---
 
-## Avant utilisation : 
+## Avant utilisation
 
 - Signaler tout problème à un Staff Lab / Lab Manager.
 - S'assurer de l'état de charge de la batterie (la mettre en charge si nécessaire).
 
-## Description : 
+## Description
 
 - Une **scie sauteuse** est une machine-outil de découpe, équipée d'une lame dentée.
 - Permet la découpe de planches ou de panneaux en bois, plastique ou aluminium.
 - Matériaux <= à 3 cm d'épaisseur.
 
-## Utilisation : 
+## Utilisation
 
-1. Mise en place des EPI. 
-2. Mise en route de la machine. 
+1. Mise en place des EPI.
+2. Mise en route de la machine.
 3. Découpe de la pièce.
 
-## EPI obligatoires : 
+## EPI obligatoires
 
 - Gants de découpe (orange).
 - Lunettes de protection.
 
-## EPI recommandé :
+## EPI recommandé
 
 - Bouchons d'oreilles.
 - Masque à poussière.
 
-## Précautions à prendre : 
+## Précautions à prendre
 
 - Cheveux attachés.
 - Pas de vêtement ample ni de cordon qui pend.
 - Pas de bijoux (boucle d'oreille, collier, bague).
 - Prévenir les personnes aux alentours et leur proposer des EPI.
 
-## Après utilisation: 
+## Après utilisation
 
 - Retirer la batterie de l'appareil.
 - Remettre l'appareil sur la position de sécurité.
