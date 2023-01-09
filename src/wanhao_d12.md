@@ -5,7 +5,7 @@ title: Wanhao d12 230/300
 
 ## Description
 
-Nous avons deux Wanhao d12 230 et une 300. Nous privilégions la d12 300 pour les grosses pièces et les 230 pour le reste. Les deux sont capable d'imprimer du bi-couleur, mais la plupart du temps nous ne faisons que des impressions en mono.
+Nous avons deux Wanhao d12 230 et une 300. Nous privilégions la d12 300 pour les grosses pièces et les 230 pour le reste. Les deux sont capables d'imprimer du bi-couleur, mais la plupart du temps nous ne faisons que des impressions en mono.
 
 ## Utilisation
 
