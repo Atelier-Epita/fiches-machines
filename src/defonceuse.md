@@ -1,5 +1,5 @@
 ---
-level: rouge
+level: red
 title: Défonceuse
 ---
 
