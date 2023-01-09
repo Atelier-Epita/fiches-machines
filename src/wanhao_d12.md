@@ -13,7 +13,7 @@ Il y a trois étapes majeures pour une impression. On ne parcourra pas les deux 
 
 Pour utiliser l'imprimante, allumer l'alimentation à l'arrière (d12 230) ou sur le côté de la machine (d12 300).
 Ensuite, insérer la SD, puis appuyer sur print.
-(*Note: il peut être utile de préchauffer l'imprimante pour eviter de perdre du temps lors du lancement de l'impression*)
+(*Note: il peut être utile de préchauffer l'imprimante pour éviter de perdre du temps lors du lancement de l'impression*)
 
 ## Maintenance
 
@@ -24,8 +24,9 @@ Ensuite, insérer la SD, puis appuyer sur print.
 
 ## Précautions à prendre
 
-- Ne met pas ta main sur la buse: tu risques de te faire mal très fort !
+- Ne met pas ta main sur la buse: tu risques de te faire très mal !
 - Lors de la phase d'impression, faire particulièrement attention au premier layer, il est crucial, il faut qu'il y ait une belle adhésion. En cas de doutes, relire la section troubleshooting de la fiche tuto.
+- Ne pas manipuler l'imprimante lorsqu'elle est en marche, ne pas déplacer la plaque d'impression.
 
 ## Après utilisation
 
