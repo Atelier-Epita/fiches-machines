@@ -21,7 +21,7 @@ Il y a trois étapes majeures pour une impression. On ne parcourra pas les deux 
 - Verser la résine dans le réservoir de l'imprimante 3D en veillant à ne pas déborder.
 - **Refermer l'imprimante avec le filtre UV.**
 - Lancer l'impression et surveiller la machine pendant son fonctionnement.
-- Une fois l'impression terminée, enlever les supports et placer l'impression dans le module de curage: d'abord un cycle de rinçage, puis un cycle de sèche.
+- Une fois l'impression terminée, enlever les supports et placer l'impression dans le module de curage: d'abord un cycle de rinçage, puis un cycle de sèchage.
 
 ## EPI obligatoire(s)
 
