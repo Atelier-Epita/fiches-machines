@@ -5,8 +5,9 @@ title: Défonceuse
 
 ## Avant utilisation : 
 
-- Signaler tout problème a un Staff Lab / Lab Manager.
+- Signaler tout problème à un Staff Lab / Lab Manager.
 - S'assurer qu'aucune présentation n'est en cours dans le MakerSpace.
+- Dégager un espace de sécurité suffisant.
 
 ## Description : 
 
@@ -18,13 +19,13 @@ title: Défonceuse
 1. Mise en place des EPI. 
 2. Mise en place de la tête de fraisage **(Uniquement lorsque la machine est hors tension)**. 
 3. Préparation du support à travailler. 
-4. Connecter l'aspirateur à l'appareil. 
+4. Branchement de l'aspirateur à l'appareil. 
 5. Mise sous tension de la machine et de l'aspirateur.
 
 ## EPI obligatoires : 
 
 - Gants de manutention (gris).
-- Lunette de protection.
+- Lunettes de protection.
 - Bouchons d'oreilles.
 
 ## EPI recommandé :
@@ -34,13 +35,13 @@ title: Défonceuse
 ## Précautions à prendre : 
 
 - Cheveux attachés.
-- Pas de vêtement ample.
+- Pas de vêtement ample ni de cordon qui pend.
 - Pas de bijoux (boucle d'oreille, collier, bague).
-- Prévenir les personnes aux alentours et leur proposer des EPI adapté.
+- Prévenir les personnes aux alentours et leur proposer des EPI adaptés.
 
 ## Après utilisation: 
 
-- mise hors tension de la machine.
-- nettoyage de la machine + de l'espace autours avec l'aspirateur.
-- rangement des EPI.
-- signaler tout problème a un staff Lab / Lab Manager.
+- Éteindre la machine puis la mettre hors tension
+- Nettoyage de la machine & de l'espace autour avec l'aspirateur.
+- Rangement des EPI.
+- Signaler tout problème à un Staff Lab / Lab Manager.

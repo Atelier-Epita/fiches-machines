@@ -9,7 +9,7 @@ title: Fer à souder
 
 ## Description : 
 
-- Appareil électrique dont le bout fin chauffe une matière, comme le **fer**, permettant ainsi de réunir deux pièces 
+- Appareil électrique dont le bout fin (la panne) chauffe du métal au contact permettant ainsi de réunir deux pièces 
 distinctes grâce à une fusion. Le **fer à souder** sert donc à assembler, joindre ou souder deux objets.
 
 ## Utilisation : 
@@ -19,12 +19,9 @@ distinctes grâce à une fusion. Le **fer à souder** sert donc à assembler, jo
 3. Remplissage du bac à eau (endroit où se trouve l'éponge);
 4. Disposer les pièces à assembler sur la troisième main.
 
-## EPI obligatoire : 
-
-
 ## EPI recommandés :
-- Lunette de protection.
-- Masque de protection.
+- Lunettes de protection.
+- Masque (vapeurs d'étain).
 
 ## Précautions à prendre : 
 
