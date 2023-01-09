@@ -3,16 +3,17 @@ level: green
 title: Perceuse / Visseuse
 ---
 
-## Avant utilisation : 
+## Avant utilisation
 
 - Signaler tout problème à un Staff Lab / Lab Manager.
 - S'assurer de l'état de charge de la batterie (la mettre en charge si nécessaire).
 
-## Description : 
-- La **perceuse visseuse** est un outil permettant aussi bien de percer différents matériaux que de visser et de dévisser. 
+## Description
+
+- La **perceuse visseuse** est un outil permettant aussi bien de percer différents matériaux que de visser et de dévisser.
     Elle peut aussi être une perceuse à percussion pour un usage polyvalent comme le perçage dans la brique ou la pierre tendre.
 
-## Utilisation : 
+## Utilisation
 
 1) Mise en place des EPI.
 2) Ajustement du limiteur de couple.
@@ -21,19 +22,19 @@ title: Perceuse / Visseuse
 5) Fixer fermement la pièce si elle est libre.
 6) Insérer le forêt ou l'embout dans le mandrin.
 
-## EPI recommandés :
+## EPI recommandés
 
 - Lunettes de protection.
 - Gants de manutention (gris).
 
-## Précautions à prendre : 
+## Précautions à prendre
 
 - Cheveux attachés.
 - Pas de vêtement ample ni de cordon qui pend.
 - Pas de bijoux (boucle d'oreille, collier, bague).
 - Attention aux blocages lors du perçage de matériaux durs (Limiter le couple).
 
-## Après utilisation: 
+## Après utilisation
 
 - S'assurer de l'état de charge de la batterie (la mettre en charge si nécessaire).
 - Nettoyer la machine & l'espace autour avec l'aspirateur.
