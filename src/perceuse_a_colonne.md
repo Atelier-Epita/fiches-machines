@@ -20,13 +20,13 @@ title: Perceuse à colonne
 
 ## Utilisation
 
-1) Mise en place des EPI.
-2) Mise en place du forêt dans le mandrin.
-3) Ajustement de la pièce grâce au laser.
-4) Ajustement du maintien de la pièce grâce au serre-joint intégré.
-5) Ajustement de l'amplitude de mouvement vertical nécessaire.
-6) Réglage de la vitesse de rotation du mandrin.
-7) Mise en route de la machine.
+1. Mise en place des EPI.
+2. Mise en place du forêt dans le mandrin.
+3. Ajustement de la pièce grâce au laser.
+4. Ajustement du maintien de la pièce grâce au serre-joint intégré.
+5. Ajustement de l'amplitude de mouvement vertical nécessaire.
+6. Réglage de la vitesse de rotation du mandrin.
+7. Mise en route de la machine.
 
 ## EPI obligatoire
 

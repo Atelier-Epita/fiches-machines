@@ -15,12 +15,12 @@ title: Perceuse / Visseuse
 
 ## Utilisation
 
-1) Mise en place des EPI.
-2) Ajustement du limiteur de couple.
-3) Sélection du mode de perçage (avec / sans percussion).
-4) Sélection de la vitesse de rotation (1 / 2).
-5) Fixer fermement la pièce si elle est libre.
-6) Insérer le forêt ou l'embout dans le mandrin.
+1. Mise en place des EPI.
+2. Ajustement du limiteur de couple.
+3. Sélection du mode de perçage (avec / sans percussion).
+4. Sélection de la vitesse de rotation (1 / 2).
+5. Fixer fermement la pièce si elle est libre.
+6. Insérer le forêt ou l'embout dans le mandrin.
 
 ## EPI recommandés
 
