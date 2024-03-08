@@ -1,3 +1,5 @@
+Migrated to `atelier-epita/documentation`
+
 # fiches-machines
 
 Markdown sources files for generation of "fiches machines" at l'Atelier
